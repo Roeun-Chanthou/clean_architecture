@@ -1,0 +1,180 @@
+E:\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.csproj.AssemblyReference.cache
+E:\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.EmployeeForm.resources
+E:\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.csproj.GenerateResource.cache
+E:\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+E:\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.AssemblyInfoInputs.cache
+E:\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.AssemblyInfo.cs
+E:\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.csproj.CoreCompileInputs.cache
+E:\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.exe
+E:\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.deps.json
+E:\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.runtimeconfig.json
+E:\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.dll
+E:\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.pdb
+E:\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\AttendanceManagementSystem.Application.dll
+E:\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\AttendanceManagementSystem.Domain.Enitities.dll
+E:\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\AttendanceManagementSystem.Infrasturcture.dll
+E:\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\AttendanceManagementSystem.Application.pdb
+E:\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\AttendanceManagementSystem.Domain.Enitities.pdb
+E:\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\AttendanceManagementSystem.Infrasturcture.pdb
+E:\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.ClockManagement.resources
+E:\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.MainForm.resources
+E:\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.Properties.Resources.resources
+E:\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\Attendan.5FC23F65.Up2Date
+E:\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.dll
+E:\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\refint\AttendanceManagementSystem.Presentation.dll
+E:\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.pdb
+E:\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.genruntimeconfig.cache
+E:\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\ref\AttendanceManagementSystem.Presentation.dll
+E:\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\AntdUI.dll
+D:\Code\NU\Semester II\AAD_C#\project3\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.exe
+D:\Code\NU\Semester II\AAD_C#\project3\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.deps.json
+D:\Code\NU\Semester II\AAD_C#\project3\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.runtimeconfig.json
+D:\Code\NU\Semester II\AAD_C#\project3\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.dll
+D:\Code\NU\Semester II\AAD_C#\project3\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.pdb
+D:\Code\NU\Semester II\AAD_C#\project3\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\AntdUI.dll
+D:\Code\NU\Semester II\AAD_C#\project3\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\AttendanceManagementSystem.Application.dll
+D:\Code\NU\Semester II\AAD_C#\project3\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\AttendanceManagementSystem.Domain.Enitities.dll
+D:\Code\NU\Semester II\AAD_C#\project3\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\AttendanceManagementSystem.Infrasturcture.dll
+D:\Code\NU\Semester II\AAD_C#\project3\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\AttendanceManagementSystem.Application.pdb
+D:\Code\NU\Semester II\AAD_C#\project3\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\AttendanceManagementSystem.Domain.Enitities.pdb
+D:\Code\NU\Semester II\AAD_C#\project3\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\AttendanceManagementSystem.Infrasturcture.pdb
+D:\Code\NU\Semester II\AAD_C#\project3\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.csproj.AssemblyReference.cache
+D:\Code\NU\Semester II\AAD_C#\project3\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.ClockManagement.resources
+D:\Code\NU\Semester II\AAD_C#\project3\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.EmployeeForm.resources
+D:\Code\NU\Semester II\AAD_C#\project3\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.MainForm.resources
+D:\Code\NU\Semester II\AAD_C#\project3\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.Properties.Resources.resources
+D:\Code\NU\Semester II\AAD_C#\project3\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.csproj.GenerateResource.cache
+D:\Code\NU\Semester II\AAD_C#\project3\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\NU\Semester II\AAD_C#\project3\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.AssemblyInfoInputs.cache
+D:\Code\NU\Semester II\AAD_C#\project3\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.AssemblyInfo.cs
+D:\Code\NU\Semester II\AAD_C#\project3\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.csproj.CoreCompileInputs.cache
+D:\Code\NU\Semester II\AAD_C#\project3\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\Attendan.5FC23F65.Up2Date
+D:\Code\NU\Semester II\AAD_C#\project3\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.dll
+D:\Code\NU\Semester II\AAD_C#\project3\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\refint\AttendanceManagementSystem.Presentation.dll
+D:\Code\NU\Semester II\AAD_C#\project3\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.pdb
+D:\Code\NU\Semester II\AAD_C#\project3\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.genruntimeconfig.cache
+D:\Code\NU\Semester II\AAD_C#\project3\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\ref\AttendanceManagementSystem.Presentation.dll
+D:\Code\NU\Semester II\AAD_C#\project3\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Code\NU\Semester II\AAD_C#\project3\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Code\NU\Semester II\AAD_C#\project3\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Code\NU\Semester II\AAD_C#\project3\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Code\NU\Semester II\AAD_C#\project3\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Code\NU\Semester II\AAD_C#\project3\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Code\NU\Semester II\AAD_C#\project3\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\Code\NU\Semester II\AAD_C#\project3\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Code\NU\Semester II\AAD_C#\project3\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\Code\NU\Semester II\AAD_C#\project3\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Code\NU\Semester II\AAD_C#\project4\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.exe
+D:\Code\NU\Semester II\AAD_C#\project4\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.deps.json
+D:\Code\NU\Semester II\AAD_C#\project4\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.runtimeconfig.json
+D:\Code\NU\Semester II\AAD_C#\project4\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.dll
+D:\Code\NU\Semester II\AAD_C#\project4\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.pdb
+D:\Code\NU\Semester II\AAD_C#\project4\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\AntdUI.dll
+D:\Code\NU\Semester II\AAD_C#\project4\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Code\NU\Semester II\AAD_C#\project4\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Code\NU\Semester II\AAD_C#\project4\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Code\NU\Semester II\AAD_C#\project4\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Code\NU\Semester II\AAD_C#\project4\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Code\NU\Semester II\AAD_C#\project4\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Code\NU\Semester II\AAD_C#\project4\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\Code\NU\Semester II\AAD_C#\project4\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Code\NU\Semester II\AAD_C#\project4\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\Code\NU\Semester II\AAD_C#\project4\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Code\NU\Semester II\AAD_C#\project4\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\AttendanceManagementSystem.Application.dll
+D:\Code\NU\Semester II\AAD_C#\project4\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\AttendanceManagementSystem.Domain.Enitities.dll
+D:\Code\NU\Semester II\AAD_C#\project4\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\AttendanceManagementSystem.Infrasturcture.dll
+D:\Code\NU\Semester II\AAD_C#\project4\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\AttendanceManagementSystem.Application.pdb
+D:\Code\NU\Semester II\AAD_C#\project4\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\AttendanceManagementSystem.Domain.Enitities.pdb
+D:\Code\NU\Semester II\AAD_C#\project4\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\AttendanceManagementSystem.Infrasturcture.pdb
+D:\Code\NU\Semester II\AAD_C#\project4\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.csproj.AssemblyReference.cache
+D:\Code\NU\Semester II\AAD_C#\project4\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.ClockManagement.resources
+D:\Code\NU\Semester II\AAD_C#\project4\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.EmployeeForm.resources
+D:\Code\NU\Semester II\AAD_C#\project4\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.MainForm.resources
+D:\Code\NU\Semester II\AAD_C#\project4\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.Properties.Resources.resources
+D:\Code\NU\Semester II\AAD_C#\project4\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.csproj.GenerateResource.cache
+D:\Code\NU\Semester II\AAD_C#\project4\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\NU\Semester II\AAD_C#\project4\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.AssemblyInfoInputs.cache
+D:\Code\NU\Semester II\AAD_C#\project4\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.AssemblyInfo.cs
+D:\Code\NU\Semester II\AAD_C#\project4\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.csproj.CoreCompileInputs.cache
+D:\Code\NU\Semester II\AAD_C#\project4\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\Attendan.5FC23F65.Up2Date
+D:\Code\NU\Semester II\AAD_C#\project4\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.dll
+D:\Code\NU\Semester II\AAD_C#\project4\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\refint\AttendanceManagementSystem.Presentation.dll
+D:\Code\NU\Semester II\AAD_C#\project4\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.pdb
+D:\Code\NU\Semester II\AAD_C#\project4\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.genruntimeconfig.cache
+D:\Code\NU\Semester II\AAD_C#\project4\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\ref\AttendanceManagementSystem.Presentation.dll
+C:\Mac\Home\Downloads\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.exe
+C:\Mac\Home\Downloads\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.deps.json
+C:\Mac\Home\Downloads\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.runtimeconfig.json
+C:\Mac\Home\Downloads\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.dll
+C:\Mac\Home\Downloads\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.pdb
+C:\Mac\Home\Downloads\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\AntdUI.dll
+C:\Mac\Home\Downloads\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Mac\Home\Downloads\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Mac\Home\Downloads\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Mac\Home\Downloads\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Mac\Home\Downloads\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Mac\Home\Downloads\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Mac\Home\Downloads\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Mac\Home\Downloads\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Mac\Home\Downloads\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Mac\Home\Downloads\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Mac\Home\Downloads\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\AttendanceManagementSystem.Application.dll
+C:\Mac\Home\Downloads\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\AttendanceManagementSystem.Domain.Enitities.dll
+C:\Mac\Home\Downloads\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\AttendanceManagementSystem.Infrasturcture.dll
+C:\Mac\Home\Downloads\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\AttendanceManagementSystem.Application.pdb
+C:\Mac\Home\Downloads\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\AttendanceManagementSystem.Domain.Enitities.pdb
+C:\Mac\Home\Downloads\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\AttendanceManagementSystem.Infrasturcture.pdb
+C:\Mac\Home\Downloads\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.csproj.AssemblyReference.cache
+C:\Mac\Home\Downloads\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.ClockManagement.resources
+C:\Mac\Home\Downloads\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.EmployeeForm.resources
+C:\Mac\Home\Downloads\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.MainForm.resources
+C:\Mac\Home\Downloads\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.Properties.Resources.resources
+C:\Mac\Home\Downloads\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.csproj.GenerateResource.cache
+C:\Mac\Home\Downloads\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mac\Home\Downloads\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.AssemblyInfoInputs.cache
+C:\Mac\Home\Downloads\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.AssemblyInfo.cs
+C:\Mac\Home\Downloads\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Downloads\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\Attendan.5FC23F65.Up2Date
+C:\Mac\Home\Downloads\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.dll
+C:\Mac\Home\Downloads\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\refint\AttendanceManagementSystem.Presentation.dll
+C:\Mac\Home\Downloads\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.pdb
+C:\Mac\Home\Downloads\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.genruntimeconfig.cache
+C:\Mac\Home\Downloads\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\ref\AttendanceManagementSystem.Presentation.dll
+C:\Mac\Home\Documents\Roeun Chanthou\Northon\AAD\cleanArchiticture\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.exe
+C:\Mac\Home\Documents\Roeun Chanthou\Northon\AAD\cleanArchiticture\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.deps.json
+C:\Mac\Home\Documents\Roeun Chanthou\Northon\AAD\cleanArchiticture\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.runtimeconfig.json
+C:\Mac\Home\Documents\Roeun Chanthou\Northon\AAD\cleanArchiticture\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.dll
+C:\Mac\Home\Documents\Roeun Chanthou\Northon\AAD\cleanArchiticture\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.pdb
+C:\Mac\Home\Documents\Roeun Chanthou\Northon\AAD\cleanArchiticture\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\AntdUI.dll
+C:\Mac\Home\Documents\Roeun Chanthou\Northon\AAD\cleanArchiticture\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Mac\Home\Documents\Roeun Chanthou\Northon\AAD\cleanArchiticture\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Mac\Home\Documents\Roeun Chanthou\Northon\AAD\cleanArchiticture\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Mac\Home\Documents\Roeun Chanthou\Northon\AAD\cleanArchiticture\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Mac\Home\Documents\Roeun Chanthou\Northon\AAD\cleanArchiticture\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Mac\Home\Documents\Roeun Chanthou\Northon\AAD\cleanArchiticture\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Mac\Home\Documents\Roeun Chanthou\Northon\AAD\cleanArchiticture\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Mac\Home\Documents\Roeun Chanthou\Northon\AAD\cleanArchiticture\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Mac\Home\Documents\Roeun Chanthou\Northon\AAD\cleanArchiticture\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Mac\Home\Documents\Roeun Chanthou\Northon\AAD\cleanArchiticture\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Mac\Home\Documents\Roeun Chanthou\Northon\AAD\cleanArchiticture\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\AttendanceManagementSystem.Application.dll
+C:\Mac\Home\Documents\Roeun Chanthou\Northon\AAD\cleanArchiticture\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\AttendanceManagementSystem.Domain.Enitities.dll
+C:\Mac\Home\Documents\Roeun Chanthou\Northon\AAD\cleanArchiticture\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\AttendanceManagementSystem.Infrasturcture.dll
+C:\Mac\Home\Documents\Roeun Chanthou\Northon\AAD\cleanArchiticture\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\AttendanceManagementSystem.Application.pdb
+C:\Mac\Home\Documents\Roeun Chanthou\Northon\AAD\cleanArchiticture\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\AttendanceManagementSystem.Domain.Enitities.pdb
+C:\Mac\Home\Documents\Roeun Chanthou\Northon\AAD\cleanArchiticture\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\bin\Debug\net8.0-windows\AttendanceManagementSystem.Infrasturcture.pdb
+C:\Mac\Home\Documents\Roeun Chanthou\Northon\AAD\cleanArchiticture\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.csproj.AssemblyReference.cache
+C:\Mac\Home\Documents\Roeun Chanthou\Northon\AAD\cleanArchiticture\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.ClockManagement.resources
+C:\Mac\Home\Documents\Roeun Chanthou\Northon\AAD\cleanArchiticture\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.EmployeeForm.resources
+C:\Mac\Home\Documents\Roeun Chanthou\Northon\AAD\cleanArchiticture\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.MainForm.resources
+C:\Mac\Home\Documents\Roeun Chanthou\Northon\AAD\cleanArchiticture\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.Properties.Resources.resources
+C:\Mac\Home\Documents\Roeun Chanthou\Northon\AAD\cleanArchiticture\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.csproj.GenerateResource.cache
+C:\Mac\Home\Documents\Roeun Chanthou\Northon\AAD\cleanArchiticture\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mac\Home\Documents\Roeun Chanthou\Northon\AAD\cleanArchiticture\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.AssemblyInfoInputs.cache
+C:\Mac\Home\Documents\Roeun Chanthou\Northon\AAD\cleanArchiticture\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.AssemblyInfo.cs
+C:\Mac\Home\Documents\Roeun Chanthou\Northon\AAD\cleanArchiticture\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\Roeun Chanthou\Northon\AAD\cleanArchiticture\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\Attendan.5FC23F65.Up2Date
+C:\Mac\Home\Documents\Roeun Chanthou\Northon\AAD\cleanArchiticture\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.dll
+C:\Mac\Home\Documents\Roeun Chanthou\Northon\AAD\cleanArchiticture\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\refint\AttendanceManagementSystem.Presentation.dll
+C:\Mac\Home\Documents\Roeun Chanthou\Northon\AAD\cleanArchiticture\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.pdb
+C:\Mac\Home\Documents\Roeun Chanthou\Northon\AAD\cleanArchiticture\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\AttendanceManagementSystem.Presentation.genruntimeconfig.cache
+C:\Mac\Home\Documents\Roeun Chanthou\Northon\AAD\cleanArchiticture\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Presentation\obj\Debug\net8.0-windows\ref\AttendanceManagementSystem.Presentation.dll

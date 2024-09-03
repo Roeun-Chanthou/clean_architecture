@@ -1,0 +1,85 @@
+E:\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\bin\Debug\net8.0\AttendanceManagementSystem.Infrasturcture.deps.json
+E:\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\bin\Debug\net8.0\AttendanceManagementSystem.Infrasturcture.dll
+E:\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\bin\Debug\net8.0\AttendanceManagementSystem.Infrasturcture.pdb
+E:\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\bin\Debug\net8.0\AttendanceManagementSystem.Application.dll
+E:\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\bin\Debug\net8.0\AttendanceManagementSystem.Domain.Enitities.dll
+E:\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\bin\Debug\net8.0\AttendanceManagementSystem.Application.pdb
+E:\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\bin\Debug\net8.0\AttendanceManagementSystem.Domain.Enitities.pdb
+E:\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\obj\Debug\net8.0\AttendanceManagementSystem.Infrasturcture.csproj.AssemblyReference.cache
+E:\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\obj\Debug\net8.0\AttendanceManagementSystem.Infrasturcture.GeneratedMSBuildEditorConfig.editorconfig
+E:\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\obj\Debug\net8.0\AttendanceManagementSystem.Infrasturcture.AssemblyInfoInputs.cache
+E:\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\obj\Debug\net8.0\AttendanceManagementSystem.Infrasturcture.AssemblyInfo.cs
+E:\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\obj\Debug\net8.0\AttendanceManagementSystem.Infrasturcture.csproj.CoreCompileInputs.cache
+E:\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\obj\Debug\net8.0\Attendan.21B79848.Up2Date
+E:\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\obj\Debug\net8.0\AttendanceManagementSystem.Infrasturcture.dll
+E:\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\obj\Debug\net8.0\refint\AttendanceManagementSystem.Infrasturcture.dll
+E:\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\obj\Debug\net8.0\AttendanceManagementSystem.Infrasturcture.pdb
+E:\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\obj\Debug\net8.0\ref\AttendanceManagementSystem.Infrasturcture.dll
+D:\Code\NU\Semester II\AAD_C#\project3\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\bin\Debug\net8.0\AttendanceManagementSystem.Infrasturcture.deps.json
+D:\Code\NU\Semester II\AAD_C#\project3\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\bin\Debug\net8.0\AttendanceManagementSystem.Infrasturcture.dll
+D:\Code\NU\Semester II\AAD_C#\project3\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\bin\Debug\net8.0\AttendanceManagementSystem.Infrasturcture.pdb
+D:\Code\NU\Semester II\AAD_C#\project3\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\bin\Debug\net8.0\AttendanceManagementSystem.Application.dll
+D:\Code\NU\Semester II\AAD_C#\project3\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\bin\Debug\net8.0\AttendanceManagementSystem.Domain.Enitities.dll
+D:\Code\NU\Semester II\AAD_C#\project3\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\bin\Debug\net8.0\AttendanceManagementSystem.Application.pdb
+D:\Code\NU\Semester II\AAD_C#\project3\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\bin\Debug\net8.0\AttendanceManagementSystem.Domain.Enitities.pdb
+D:\Code\NU\Semester II\AAD_C#\project3\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\obj\Debug\net8.0\AttendanceManagementSystem.Infrasturcture.csproj.AssemblyReference.cache
+D:\Code\NU\Semester II\AAD_C#\project3\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\obj\Debug\net8.0\AttendanceManagementSystem.Infrasturcture.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\NU\Semester II\AAD_C#\project3\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\obj\Debug\net8.0\AttendanceManagementSystem.Infrasturcture.AssemblyInfoInputs.cache
+D:\Code\NU\Semester II\AAD_C#\project3\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\obj\Debug\net8.0\AttendanceManagementSystem.Infrasturcture.AssemblyInfo.cs
+D:\Code\NU\Semester II\AAD_C#\project3\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\obj\Debug\net8.0\AttendanceManagementSystem.Infrasturcture.csproj.CoreCompileInputs.cache
+D:\Code\NU\Semester II\AAD_C#\project3\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\obj\Debug\net8.0\Attendan.21B79848.Up2Date
+D:\Code\NU\Semester II\AAD_C#\project3\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\obj\Debug\net8.0\AttendanceManagementSystem.Infrasturcture.dll
+D:\Code\NU\Semester II\AAD_C#\project3\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\obj\Debug\net8.0\refint\AttendanceManagementSystem.Infrasturcture.dll
+D:\Code\NU\Semester II\AAD_C#\project3\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\obj\Debug\net8.0\AttendanceManagementSystem.Infrasturcture.pdb
+D:\Code\NU\Semester II\AAD_C#\project3\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\obj\Debug\net8.0\ref\AttendanceManagementSystem.Infrasturcture.dll
+D:\Code\NU\Semester II\AAD_C#\project4\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\bin\Debug\net8.0\AttendanceManagementSystem.Infrasturcture.deps.json
+D:\Code\NU\Semester II\AAD_C#\project4\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\bin\Debug\net8.0\AttendanceManagementSystem.Infrasturcture.dll
+D:\Code\NU\Semester II\AAD_C#\project4\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\bin\Debug\net8.0\AttendanceManagementSystem.Infrasturcture.pdb
+D:\Code\NU\Semester II\AAD_C#\project4\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\bin\Debug\net8.0\AttendanceManagementSystem.Application.dll
+D:\Code\NU\Semester II\AAD_C#\project4\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\bin\Debug\net8.0\AttendanceManagementSystem.Domain.Enitities.dll
+D:\Code\NU\Semester II\AAD_C#\project4\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\bin\Debug\net8.0\AttendanceManagementSystem.Application.pdb
+D:\Code\NU\Semester II\AAD_C#\project4\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\bin\Debug\net8.0\AttendanceManagementSystem.Domain.Enitities.pdb
+D:\Code\NU\Semester II\AAD_C#\project4\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\obj\Debug\net8.0\AttendanceManagementSystem.Infrasturcture.csproj.AssemblyReference.cache
+D:\Code\NU\Semester II\AAD_C#\project4\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\obj\Debug\net8.0\AttendanceManagementSystem.Infrasturcture.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\NU\Semester II\AAD_C#\project4\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\obj\Debug\net8.0\AttendanceManagementSystem.Infrasturcture.AssemblyInfoInputs.cache
+D:\Code\NU\Semester II\AAD_C#\project4\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\obj\Debug\net8.0\AttendanceManagementSystem.Infrasturcture.AssemblyInfo.cs
+D:\Code\NU\Semester II\AAD_C#\project4\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\obj\Debug\net8.0\AttendanceManagementSystem.Infrasturcture.csproj.CoreCompileInputs.cache
+D:\Code\NU\Semester II\AAD_C#\project4\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\obj\Debug\net8.0\Attendan.21B79848.Up2Date
+D:\Code\NU\Semester II\AAD_C#\project4\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\obj\Debug\net8.0\AttendanceManagementSystem.Infrasturcture.dll
+D:\Code\NU\Semester II\AAD_C#\project4\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\obj\Debug\net8.0\refint\AttendanceManagementSystem.Infrasturcture.dll
+D:\Code\NU\Semester II\AAD_C#\project4\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\obj\Debug\net8.0\AttendanceManagementSystem.Infrasturcture.pdb
+D:\Code\NU\Semester II\AAD_C#\project4\Employee\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\obj\Debug\net8.0\ref\AttendanceManagementSystem.Infrasturcture.dll
+C:\Mac\Home\Downloads\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\bin\Debug\net8.0\AttendanceManagementSystem.Infrasturcture.deps.json
+C:\Mac\Home\Downloads\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\bin\Debug\net8.0\AttendanceManagementSystem.Infrasturcture.dll
+C:\Mac\Home\Downloads\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\bin\Debug\net8.0\AttendanceManagementSystem.Infrasturcture.pdb
+C:\Mac\Home\Downloads\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\bin\Debug\net8.0\AttendanceManagementSystem.Application.dll
+C:\Mac\Home\Downloads\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\bin\Debug\net8.0\AttendanceManagementSystem.Domain.Enitities.dll
+C:\Mac\Home\Downloads\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\bin\Debug\net8.0\AttendanceManagementSystem.Application.pdb
+C:\Mac\Home\Downloads\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\bin\Debug\net8.0\AttendanceManagementSystem.Domain.Enitities.pdb
+C:\Mac\Home\Downloads\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\obj\Debug\net8.0\AttendanceManagementSystem.Infrasturcture.csproj.AssemblyReference.cache
+C:\Mac\Home\Downloads\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\obj\Debug\net8.0\AttendanceManagementSystem.Infrasturcture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mac\Home\Downloads\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\obj\Debug\net8.0\AttendanceManagementSystem.Infrasturcture.AssemblyInfoInputs.cache
+C:\Mac\Home\Downloads\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\obj\Debug\net8.0\AttendanceManagementSystem.Infrasturcture.AssemblyInfo.cs
+C:\Mac\Home\Downloads\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\obj\Debug\net8.0\AttendanceManagementSystem.Infrasturcture.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Downloads\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\obj\Debug\net8.0\Attendan.21B79848.Up2Date
+C:\Mac\Home\Downloads\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\obj\Debug\net8.0\AttendanceManagementSystem.Infrasturcture.dll
+C:\Mac\Home\Downloads\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\obj\Debug\net8.0\refint\AttendanceManagementSystem.Infrasturcture.dll
+C:\Mac\Home\Downloads\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\obj\Debug\net8.0\AttendanceManagementSystem.Infrasturcture.pdb
+C:\Mac\Home\Downloads\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\obj\Debug\net8.0\ref\AttendanceManagementSystem.Infrasturcture.dll
+C:\Mac\Home\Documents\Roeun Chanthou\Northon\AAD\cleanArchiticture\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\bin\Debug\net8.0\AttendanceManagementSystem.Infrasturcture.deps.json
+C:\Mac\Home\Documents\Roeun Chanthou\Northon\AAD\cleanArchiticture\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\bin\Debug\net8.0\AttendanceManagementSystem.Infrasturcture.dll
+C:\Mac\Home\Documents\Roeun Chanthou\Northon\AAD\cleanArchiticture\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\bin\Debug\net8.0\AttendanceManagementSystem.Infrasturcture.pdb
+C:\Mac\Home\Documents\Roeun Chanthou\Northon\AAD\cleanArchiticture\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\bin\Debug\net8.0\AttendanceManagementSystem.Application.dll
+C:\Mac\Home\Documents\Roeun Chanthou\Northon\AAD\cleanArchiticture\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\bin\Debug\net8.0\AttendanceManagementSystem.Domain.Enitities.dll
+C:\Mac\Home\Documents\Roeun Chanthou\Northon\AAD\cleanArchiticture\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\bin\Debug\net8.0\AttendanceManagementSystem.Application.pdb
+C:\Mac\Home\Documents\Roeun Chanthou\Northon\AAD\cleanArchiticture\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\bin\Debug\net8.0\AttendanceManagementSystem.Domain.Enitities.pdb
+C:\Mac\Home\Documents\Roeun Chanthou\Northon\AAD\cleanArchiticture\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\obj\Debug\net8.0\AttendanceManagementSystem.Infrasturcture.csproj.AssemblyReference.cache
+C:\Mac\Home\Documents\Roeun Chanthou\Northon\AAD\cleanArchiticture\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\obj\Debug\net8.0\AttendanceManagementSystem.Infrasturcture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mac\Home\Documents\Roeun Chanthou\Northon\AAD\cleanArchiticture\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\obj\Debug\net8.0\AttendanceManagementSystem.Infrasturcture.AssemblyInfoInputs.cache
+C:\Mac\Home\Documents\Roeun Chanthou\Northon\AAD\cleanArchiticture\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\obj\Debug\net8.0\AttendanceManagementSystem.Infrasturcture.AssemblyInfo.cs
+C:\Mac\Home\Documents\Roeun Chanthou\Northon\AAD\cleanArchiticture\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\obj\Debug\net8.0\AttendanceManagementSystem.Infrasturcture.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\Roeun Chanthou\Northon\AAD\cleanArchiticture\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\obj\Debug\net8.0\Attendan.21B79848.Up2Date
+C:\Mac\Home\Documents\Roeun Chanthou\Northon\AAD\cleanArchiticture\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\obj\Debug\net8.0\AttendanceManagementSystem.Infrasturcture.dll
+C:\Mac\Home\Documents\Roeun Chanthou\Northon\AAD\cleanArchiticture\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\obj\Debug\net8.0\refint\AttendanceManagementSystem.Infrasturcture.dll
+C:\Mac\Home\Documents\Roeun Chanthou\Northon\AAD\cleanArchiticture\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\obj\Debug\net8.0\AttendanceManagementSystem.Infrasturcture.pdb
+C:\Mac\Home\Documents\Roeun Chanthou\Northon\AAD\cleanArchiticture\AttendanceManagementSystem.Domain.Enitity\AttendanceManagementSystem.Infrasturcture\obj\Debug\net8.0\ref\AttendanceManagementSystem.Infrasturcture.dll
